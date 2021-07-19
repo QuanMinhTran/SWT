@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/Slot6Demo">
+    <Resource
+        name="DBConnection" auth="Container"
+        type="javax.sql.DataSource" 
+        username="Mem"
+        password="0941767748"
+        driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+        url="jdbc:sqlserver://localhost:1433;databaseName=ProductManagement">
+    </Resource>
+</Context>    
+    
